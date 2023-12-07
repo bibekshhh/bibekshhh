@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Innovative projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bibekshhh/repositories](https://github.com/bibekshhh/repositories)
-
 - 📝 I often write articles on [https://hashnode.com/@bibekshhh](https://hashnode.com/@bibekshhh)
 
 - 📫 How to reach me **bibekshah563@gmail.com**
