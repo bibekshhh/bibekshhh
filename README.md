@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Bibek Shah</h1>
 <h3>A passionate fullstack developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Internal Projects at Hyperce.io**
+- 🔭 I’m currently working on **Internal Projects at [Hyperce](https://www.hyperce.io/)**
 
 - 🌱 I’m currently learning **Open-Source Technologies & Smart Contracts**
 
@@ -13,14 +13,14 @@
 
 - 📫 How to reach me **bibekshah563@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13Qxl_U_NrSP3z0uvJCO72OSipWoDfDEP/view?usp=sharing](https://drive.google.com/file/d/13Qxl_U_NrSP3z0uvJCO72OSipWoDfDEP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13Qxl_U_NrSP3z0uvJCO72OSipWoDfDEP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/bibekshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bibekshh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bibekshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibekshhh" height="30" width="40" /></a>
 <a href="https://fb.com/bibekshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bibekshh" height="30" width="40" /></a>
 <a href="https://instagram.com/bibekshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibekshhh" height="30" width="40" /></a>
+<a href="https://codepen.io/bibekshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bibekshh" height="30" width="40" /></a>
 <a href="https://hashnode.com/@bibekshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bibekshhh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucueqddudtax94lau0rnlx7g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucueqddudtax94lau0rnlx7g" height="30" width="40" /></a>
 </p>
