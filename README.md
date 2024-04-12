@@ -1,17 +1,19 @@
-<h1>Hi 👋, I'm Bibek Shah</h1>
-<h3>A passionate fullstack developer from Nepal</h3>
+<h1>Hello World 👋</h1>
+
+`I'm not saying I'm Batman, but have you ever seen me and Batman in the same room coding?`
+<h3>I'm Bibek — your fullstack developer from Nepal.</h3>
 
 - 🔭 I’m currently working on **Freelance Projects**
 
-- 🌱 I’m currently learning **Open-Source Technologies**
+- 🌱 I’m currently learning **Open-Source Technologies** and **Automations and Scripting**
 
 - 👯 I’m looking to collaborate on **Innovative projects**
 
 - 📝 I often write articles on [https://hashnode.com/@bibekshhh](https://hashnode.com/@bibekshhh)
 
-- 📫 How to reach me **bibekshah563@gmail.com**
+- 📫 Reach me at **bibekshah563@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yXtfM0vrfnLtHY-_JmVe5rRTVZCkgwS8/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1yXtfM0vrfnLtHY-_JmVe5rRTVZCkgwS8/view?usp=sharing)
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
