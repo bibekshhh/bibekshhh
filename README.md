@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Bibek Shah</h1>
 <h3>A passionate fullstack developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Internal Projects at [Hyperce](https://www.hyperce.io/)**
+- 🔭 I’m currently working on **Freelance Projects**
 
-- 🌱 I’m currently learning **Open-Source Technologies & Smart Contracts**
+- 🌱 I’m currently learning **Open-Source Technologies**
 
 - 👯 I’m looking to collaborate on **Innovative projects**
 
