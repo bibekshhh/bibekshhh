@@ -22,7 +22,7 @@
 <a href="https://instagram.com/bibekshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibekshhh" height="30" width="40" /></a>
 <a href="https://codepen.io/bibekshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bibekshh" height="30" width="40" /></a>
 <a href="https://hashnode.com/@bibekshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bibekshhh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucueqddudtax94lau0rnlx7g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucueqddudtax94lau0rnlx7g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@bibekshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucueqddudtax94lau0rnlx7g" height="30" width="40" /></a>
 </p>
 <br />
 <h3 align="left">Languages and Tools:</h3>
