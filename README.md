@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **bibekshah563@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1yXtfM0vrfnLtHY-_JmVe5rRTVZCkgwS8/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1rEN_pyn8giRlqEjwIX6gTBcsq9TF5Htu/view?usp=sharing)
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
